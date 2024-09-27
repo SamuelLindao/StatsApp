@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "e4iige0AgcgEJPkch4QTJDW7ncFpT+M0cs3BXslRgAMa6xXggvxHpnWlnsYET98YBk4jJhWNGHnFa1qtNC1zJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lacer\\RiderProjects\\StatsApp\\StatsApp\\StatsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lacer\\.nuget\\packages\\mousekeyhook\\5.7.1\\mousekeyhook.5.7.1.nupkg.sha512",
+    "C:\\Users\\lacer\\.nuget\\packages\\system.codedom\\9.0.0-rc.1.24431.7\\system.codedom.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\lacer\\.nuget\\packages\\system.management\\9.0.0-rc.1.24431.7\\system.management.9.0.0-rc.1.24431.7.nupkg.sha512"
+  ],
+  "logs": []
+}
